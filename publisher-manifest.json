@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "58594ab04f208cf3d4306a8e",
+  "owner": "dhkeeryny",
+  "repo": "page-c857f91a29ccf3748bbaf854",
+  "title": "小火龙",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c857f91a29ccf3748bbaf854",
+      "a": "小火龙",
+      "b": "",
+      "entity": "小火龙",
+      "brand": "小火龙",
+      "separator": "",
+      "path": "index.html",
+      "hash": "a83fc64bb037bba8e9eb057f67b4a0df20f1ab0d35500d7e3f60cddd8f46199d",
+      "content": {
+        "keyword1": "小火龙",
+        "keyword2": "",
+        "primary_entity": "小火龙",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火龙提供稳定的机场订阅与VPN网络加速服务，覆盖流媒体解锁、游戏加速和多端客户端下载，本站为官方网站，详解套餐对比、使用场景与操作说明。",
+          "AI_DESCRIPTION": "小火龙提供稳定的机场订阅与VPN网络加速服务，覆盖流媒体解锁、游戏加速和多端客户端下载，本站为官方网站，详解套餐对比、使用场景与操作说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{box-sizing:border-box;font-size:16px;-webkit-text-size-adjust:100%}*,*:before,*:after{box-sizing:inherit;margin:0;padding:0}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif;background:#061422;color:#e8f4f8;line-height:1.75;overflow-x:hidden}a{color:#2ee6d6;text-decoration:none}a:hover{text-decoration:underline}img,svg{display:none}header{background:#0b1e36;border-bottom:1px solid #16344c;padding:12px 0}header .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}.brand-mark{font-weight:700;font-size:1.2rem;color:#fff;letter-spacing:.04em}.brand-mark span{color:#2ee6d6}nav{display:flex;flex-wrap:wrap;gap:8px 14px}nav a{color:#b8d4e0;font-size:.9rem}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}main{padding:24px 0 48px}h1{font-size:1.85rem;line-height:1.3;color:#ffffff;margin:8px 0 12px}h2{font-size:1.35rem;color:#2ee6d6;margin:32px 0 12px;padding-bottom:6px;border-bottom:1px solid #16344c}h3{font-size:1.08rem;color:#c5fff6;margin:18px 0 8px}p{margin:0 0 12px;color:#d5e6ee}.lead{font-size:1.05rem;color:#c5d8e4}.kicker{color:#2ee6d6;font-size:.82rem;letter-spacing:.12em;text-transform:uppercase;margin-bottom:6px}.cols{display:flex;flex-wrap:wrap;gap:16px;margin:16px 0}.col{flex:1 1 280px;background:#0f2744;border:1px solid #1e4d63;border-radius:10px;padding:18px 16px}.col p:last-child{margin-bottom:0}.plans{display:flex;flex-wrap:wrap;gap:14px;margin:18px 0 8px}.plan{flex:1 1 250px;background:#0f2744;border:1px solid #1e4d63;border-radius:10px;padding:20px 16px;display:flex;flex-direction:column;min-width:0}.plan.featured{border:2px solid #2ee6d6;background:#10304f}.badge{display:inline-block;background:#2ee6d6;color:#061422;font-size:.75rem;font-weight:700;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:1.6rem;color:#fff;font-weight:700;margin:6px 0}.price small{font-size:.9rem;font-weight:500;color:#8ec9c4}.annual{color:#8ba3b5;font-size:.9rem;margin-bottom:10px}.feat{list-style:none;margin:8px 0 14px;flex:1}.feat li{position:relative;padding:6px 0 6px 16px;color:#d5e6ee;font-size:.95rem;border-bottom:1px dashed #1e4d63}.feat li:before{content:\"+\";position:absolute;left:0;color:#2ee6d6;font-weight:700}.cta{display:block;text-align:center;background:#148f88;color:#fff;padding:10px 12px;border-radius:8px;font-weight:600}.cta:hover{text-decoration:none;background:#1aaea4}.note{font-size:.88rem;color:#8ba3b5}.steps{counter-reset:step;margin:8px 0 16px}.steps li{list-style:none;padding:10px 0 10px 42px;position:relative;border-bottom:1px solid #16344c}.steps li:before{counter-increment:step;content:counter(step);position:absolute;left:0;top:10px;width:28px;height:28px;border-radius:50%;background:#148f88;color:#fff;font-size:.85rem;font-weight:700;display:flex;align-items:center;justify-content:center;text-align:center;line-height:28px}details{background:#0f2744;border:1px solid #1e4d63;border-radius:8px;padding:12px 14px;margin:8px 0}summary{color:#2ee6d6;font-weight:600;cursor:pointer}details p{margin:10px 0 0;color:#d5e6ee}ul.plain{margin:0 0 12px 18px}ul.plain li{margin:4px 0}.adbox,.friends,.sitemap{background:#0b1e36;border:1px solid #16344c;border-radius:10px;padding:16px;margin:16px 0}.adbox p,.friends p{color:#8ba3b5;font-size:.9rem}.friends ul,.sitemap ul{list-style:none;display:flex;flex-wrap:wrap;gap:8px 16px;margin-top:8px}.friends a,.sitemap a{color:#b8d4e0;font-size:.92rem}footer{background:#041018;border-top:1px solid #16344c;padding:20px 0 28px;color:#8ba3b5;font-size:.85rem}footer .wrap{display:flex;flex-wrap:wrap;gap:8px 16px;justify-content:space-between}@media (max-width:640px){h1{font-size:1.5rem}h2{font-size:1.2rem}.plan,.col{flex:1 1 100%}nav a{font-size:.85rem}}</style><header><div class=\"wrap\"><a class=\"brand-mark\" href=\"#top\">小火龙 <span>官网</span></a><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#download\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#friends\">友链</a></nav></div></header><main id=\"top\"><div class=\"wrap\"><p class=\"kicker\">OFFICIAL</p><h1>小火龙</h1><p class=\"lead\">小火龙官方网站面向需要稳定跨境连接的个人与团队，提供机场订阅、VPN 梯子网络加速与多端客户端下载。页面集中说明套餐差异、适用场景和导入步骤，方便你在官网完成选型与上手。</p><section id=\"intro\"><h2>品牌简介</h2><p>小火龙是以机场订阅为核心的网络加速服务。用户开通套餐后即可获取订阅链接，在 Clash、Shadowrocket、Surge、v2rayN 等客户端中导入，按地区与用途选择节点。服务侧重点是线路可用性、流媒体解锁和游戏加速，而不是堆砌无法核验的口号。</p><div class=\"cols\"><div class=\"col\"><h3>我们解决什么问题</h3><p>远程协作、学术资料、海外流媒体和跨国游戏对延迟与解锁能力要求不同。小火龙把节点按普通线路、原生流媒体和 IPLC 游戏优化分层，避免所有流量挤在同一类出口上。基础版覆盖日常浏览，旗舰版强化解锁与游戏，团队版面向多设备与定制路由。</p></div><div class=\"col\"><h3>官方身份与获取方式</h3><p>请通过本站（小火龙官网）阅读套餐与操作说明后再获取订阅。客户端请使用各系统官方渠道或本页「客户端下载」列出的名称核对，不要安装来路不明的修改包。售后走套餐对应的工单通道，旗舰版与团队版享有更高响应优先级。</p></div></div><p>小火龙 VPN 与小火龙机场指向同一套订阅体系：一份订阅可在手机、电脑和平板间切换，设备数以套餐限额为准。流量按月重置，不统计局域网与客户端自身更新消耗的本机流量。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>以下三档为当前官网在售方案。价格含订阅与基础线路，年付按 10 个月计费。选择时先看设备数和流量，再看是否需要原生流媒体与 IPLC 游戏优化。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15<small>/月</small></p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#guide\">查看开通步骤</a></article><article class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35<small>/月</small></p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#guide\">查看开通步骤</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85<small>/月</small></p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#guide\">查看开通步骤</a></article></div><p class=\"note\">旗舰版适合把追剧、会议和游戏放在同一套订阅里的个人用户；团队版适合工作室、跨境小组需要统一出口和分设备限额的场景。流量超出当月额度后会限速而非突然中断，便于你决定是否升级。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"cols\"><div class=\"col\"><h3>流媒体与内容访问</h3><p>旗舰版全节点按原生解锁策略维护，适合需要稳定播放海外影视、音乐和直播的用户。基础版提供基础解锁，遇到版权库不匹配时可切换备用节点。建议播放类流量单独走流媒体策略，避免和下载抢带宽。</p></div><div class=\"col\"><h3>游戏与实时对战</h3><p>IPLC 专线面向对延迟敏感的对战与登录认证。旗舰版默认包含游戏优化线路，团队版可按游戏区服做分流。加速器不能改变运营商到你家的最后一公里，但能减少绕路和高峰拥塞。</p></div><div class=\"col\"><h3>远程办公与资料检索</h3><p>会议软件、代码仓库、文献库对稳定性要求高于极致速度。基础版 3 台设备可覆盖电脑加手机；多人共用请直接选团队版并开启定制路由，把办公域名固定到低丢包节点。</p></div></div></section><section id=\"download\"><h2>客户端下载</h2><p>小火龙不捆绑闭源改装客户端。请按系统下载对应开源或官方应用，再用本站订阅链接导入。以下名称用于核对，下载请前往各应用官方站点或系统应用商店，本页仅作官网指引。</p><h3>桌面端</h3><ul class=\"plain\"><li>Windows：Clash Verge / v2rayN，导入订阅后选择规则模式。</li><li>macOS：ClashX Meta 或 Surge，建议开启系统代理与自动分流。</li><li>Linux：Clash Premium 兼容内核或 sing-box 图形前端。</li></ul><h3>移动端</h3><ul class=\"plain\"><li>iOS / iPadOS：Shadowrocket、Stash 或 Quantumult X（需使用正版商店应用）。</li><li>Android：Clash Meta for Android 或 surfboard，导入后关闭绕过局域网。</li></ul><p>官网下载入口即本页该章节：完成套餐开通后，在用户中心复制订阅 URL，粘贴到客户端的「订阅 / 配置 URL」栏并更新。不要把订阅链接发到公开群，避免流量被盗用计入你的额度。</p></section><section id=\"guide\"><h2>操作说明</h2><p>下面按首次使用顺序排列。整条流程无需安装小火龙自家安装包，只使用通用客户端。</p><ol class=\"steps\"><li>在官网选定基础版、旗舰版或团队版，完成支付后进入订阅面板，复制一条 Clash 或通用订阅地址。</li><li>按设备安装上一节列出的客户端，打开「配置 / 订阅」，粘贴地址并命名为「小火龙」，点击更新。</li><li>选择规则模式（推荐）而非全局，让国内站点直连、跨境流量走节点，减少不必要消耗。</li><li>先测延迟再固定节点：浏览选普通线路，影视选原生解锁组，对战游戏选 IPLC 组。</li><li>多设备登录时不要超过套餐同时在线数。团队版可在面板为成员拆分额度或下发只读订阅。</li><li>若无法连接：检查系统时间、关闭重复的系统 VPN、更新订阅后再切换端口或备用域名。</li></ol><h3>节点与线路说明</h3><p>节点池覆盖常见地区出口，普通线路用于网页与消息应用；原生流媒体组用于版权库校验；IPLC 组用于游戏与长连接。实际可用数量随维护窗口变化，客户端内显示的延迟为你到入口的往返时延，不等于游戏内 ping。小火龙会在线路变更时通过订阅自动同步，无需反复手动改配置。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>小火龙机场和普通 VPN 有什么区别？</summary><p>小火龙以机场订阅方式下发节点，一份链接可在多款客户端使用，并能按规则分流。传统单节点 VPN 往往全局接管流量、难以区分流媒体与游戏。若你需要解锁、游戏加速和多设备，订阅模式更灵活；若只需临时加密公共 Wi-Fi，单节点工具也可以，但本站套餐按机场流量计费。</p></details><details><summary>如何完成客户端下载并导入小火龙订阅？</summary><p>先在本页「客户端下载」确认应用名称，从系统商店或该应用官方站点安装。登录小火龙官网用户中心复制订阅地址，在客户端选择「从 URL 更新」，粘贴后拉取配置。iOS 需使用正版应用；Windows 注意允许核心程序通过防火墙。导入成功后状态栏会出现可用节点列表。</p></details><details><summary>流量如何计算，到期或用尽会怎样？</summary><p>当月产生的代理流量计入套餐额度，月初重置。基础版 100GB、旗舰版 300GB、团队版 1000GB。用尽后会降速保护连接，不会立刻清空配置。到期未续费则停止转发，本地客户端仍可打开，但无法建立隧道。年付仅改变结算周期，月度流量上限不变。</p></details><details><summary>能否稳定解锁流媒体，游戏加速怎么选节点？</summary><p>基础版提供基础流媒体解锁，遇到地区库不匹配请换备用节点。旗舰版维护全节点原生解锁，更适合长期观看。游戏请走 IPLC 优化组，并在客户端为游戏进程设置直连或指定节点，避免规则错误把更新下载也送进专线。加速器改善路由，不能突破本地带宽上限。</p></details><details><summary>多设备同时在线有什么限制？团队如何分配？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。超出后新设备会认证失败或挤掉最早心跳的会话。团队版支持企业定制路由和专属客户经理，可按成员下发独立订阅或统一策略。不建议把个人订阅填进不信任的第三方面板。</p></details><details><summary>如何识别小火龙官方网站，避免下载到改装客户端？</summary><p>认准本站域名与页内套餐标价（基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月）。小火龙不要求安装带广告的「一键加速 exe」。任何声称能破解流量、分享全网订阅的第三方都与官网无关。工单仅通过套餐面板提交，旗舰版为 7x24 优先支持。</p></details></section><section class=\"adbox\" id=\"ads\"><h2>合作与公告</h2><p>企业专线与团队版定制路由咨询，请通过套餐内客户经理通道说明出口地区与并发需求，勿在公开评论区粘贴订阅链接。</p><p>媒体与工具站合作招募中：可交换测速、教程类文字入口，不接受来路不明的客户端分发。</p></section><section class=\"friends\" id=\"friends\"><h2>友链</h2><p>以下为相关阅读与工具向文字链接，便于对照客户端文档与网络基础知识。</p><ul><li><a href=\"#\">远程办公网络备忘</a></li><li><a href=\"#\">流媒体设备兼容手册</a></li><li><a href=\"#\">开源客户端使用笔记</a></li><li><a href=\"#\">延迟与路由入门</a></li><li><a href=\"#\">团队网络策略模板</a></li></ul></section><section class=\"sitemap\" id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#top\">首页</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">合作公告</a></li><li><a href=\"#friends\">友链</a></li></ul></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>小火龙官网 · 机场订阅与 VPN 网络加速服务说明页</p><p><a href=\"#top\">返回顶部</a> · <a href=\"#sitemap\">网站地图</a> · <a href=\"#guide\">官方下载指引</a></p></div></footer>",
+          "hash": "554850fd4d82bda2827fa3bf89561a27dca05836e6a11c39c15de91371291543",
+          "seo": {
+            "title": "小火龙官网 - VPN梯子网络加速与机场客户端下载",
+            "keywords": "小火龙,小火龙VPN,小火龙机场,小火龙加速器,小火龙官网,VPN梯子,网络加速,机场订阅,客户端下载,官网下载",
+            "description": "小火龙提供稳定的机场订阅与VPN网络加速服务，覆盖流媒体解锁、游戏加速和多端客户端下载，本站为官方网站，详解套餐对比、使用场景与操作说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "woqiankeji.cn",
+    "host": "p-61345ae33c.woqiankeji.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "woqiankeji.cn",
+      "url": "https://woqiankeji.cn/",
+      "label": "Shadowfly",
+      "apex": "woqiankeji.cn",
+      "kind": null,
+      "identity": "vwuubtacf/page-9d0c060ae48d2fd23279b9bb"
+    },
+    {
+      "host": "ibqsxvu.cn",
+      "url": "https://ibqsxvu.cn/",
+      "label": "小火龙",
+      "apex": "ibqsxvu.cn",
+      "kind": null,
+      "identity": "xw8fcne9/page-d54c0be97ae56ad30367a3b7"
+    },
+    {
+      "host": "xn--mesp9g36m0ul86s.com",
+      "url": "https://xn--mesp9g36m0ul86s.com/",
+      "label": "小火龙",
+      "apex": "xn--mesp9g36m0ul86s.com",
+      "kind": null,
+      "identity": "xkrdrqttsd/page-57b3238916f5d22de4cc210c"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0d04da05103109fb5bf268a3afc8228a3d1c7f9be7e9bb366df1209c10cd2d3d",
+    "sitemap.xml": "52bb563c167f1aab237ffe556563d63ad38c53f7d876f675de0dd5e21a3daf3a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2fea5a41957583fa48e9c17b13d596f654da69641ad043428fb82e40bd6a1ba0",
+    "robots.txt": "88fb857a295ad0ee9ef83e3a8c1542ee88b63df59ad708900c707e4b418a6575",
+    "9919e7d9a48ec75612867bb12d9e6644.txt": "4ce1faad489208ebf0a9fd9997eb8a8a695a32af8ef4dee76069b71decea5faa"
+  },
+  "revision": "28d68ba24db27fb3cb4d68ade60e7fb239d1b2dc1335022e7ea7c4cd24163bb0"
+}
